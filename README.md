@@ -11,4 +11,5 @@ Lessons learned from Android developers use kotlin. Avoid reinventing the wheel 
 
 [Kotlin on Android FAQ](https://developer.android.com/kotlin/faq.html)
 
+[Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 
