@@ -27,6 +27,11 @@
 [使用 Kotlin 和 Anko 的安卓开发入门](https://news.realm.io/cn/news/getting-started-with-kotlin-and-anko)
 > Kotlin，作为一个开发语言相对于 Java 6 来说是全新的。当你习惯了它的语法以后，你会注意到它比 Java 6 要简洁很多。因为 Kotlin 是 JVM-compatible 的，它编译成的 JVM 二进制代码能被安卓理解。
 
+[kotlin:Java 6废墟上新的希望](https://news.realm.io/news/droidcon-michael-pardo-kotlin/)
+> Java 8 added lambdas, streams, and many other language improvements. Java 9 is coming in September 2016, but with over half of Android devices stuck using Java 6, will we ever get to use a modern language?
+
+> In this talk from Droidcon NYC, Michael Pardo introduces Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable — a powerful addition to your Android tool belt.
+
 ### 开源项目
 
 [kotlin 项目地址](https://github.com/JetBrains/kotlin)
@@ -36,4 +41,5 @@
 [RxJava bindings for Kotlin](https://github.com/ReactiveX/RxKotlin)
 
 [使用kotlin仿Twitter的客户端](https://github.com/TwidereProject/Twidere-Android)
+
 

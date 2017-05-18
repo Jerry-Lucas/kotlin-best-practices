@@ -13,3 +13,10 @@ Lessons learned from Android developers use kotlin. Avoid reinventing the wheel 
 
 [Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 
+[Kotlin: A New Hope in a Java 6 Wasteland](https://news.realm.io/news/droidcon-michael-pardo-kotlin/)
+> Java 8 added lambdas, streams, and many other language improvements. Java 9 is coming in September 2016, but with over half of Android devices stuck using Java 6, will we ever get to use a modern language?
+
+> In this talk from Droidcon NYC, Michael Pardo introduces Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable — a powerful addition to your Android tool belt.
+
+
+
