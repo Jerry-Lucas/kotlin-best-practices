@@ -2,8 +2,8 @@
 
 Lessons learned from Android developers use kotlin. Avoid reinventing the wheel by following these guidelines.
 
-[Chinese version](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/README-CN.md)
----
+[Chinese translation](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/README-CN.md)
+
 ### Basic knowledge of kotlin
 [The official website](https://kotlinlang.org/)
 
