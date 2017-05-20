@@ -56,7 +56,8 @@
 
 [漂亮的顶部栏](https://github.com/Yalantis/JellyToolbar)
 
-![](https://github.com/Yalantis/JellyToolbar/blob/develop/gif.gif)
+<img src="https://github.com/Yalantis/JellyToolbar/blob/develop/gif.gif" width="300" height="200">
+
 
 [音乐播放器](https://github.com/antoniolg/Bandhook-Kotlin)
 
