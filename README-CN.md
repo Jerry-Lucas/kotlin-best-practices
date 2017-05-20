@@ -36,11 +36,11 @@
 
 [kotlin 项目地址](https://github.com/JetBrains/kotlin)
 > Welcome to Kotlin! Some handy links:
-1. Kotlin Site
-2. Getting Started Guide
-3. Try Kotlin
-4. Kotlin Standard Library
-5. ...
+> 1. Kotlin Site
+> 2. Getting Started Guide
+> 3. Try Kotlin
+> 4. Kotlin Standard Library
+> 5. ...
 
 [kotlin 快速开发框架](https://github.com/Kotlin/anko)
 > Anko is a Kotlin library which makes Android application development faster and easier. It makes your code clean and easy to read, and lets you forget about rough edges of the Android SDK for Java.
@@ -50,10 +50,10 @@
 
 [使用kotlin仿Twitter的客户端](https://github.com/TwidereProject/Twidere-Android)
 > Features
-1. Customizable Material Design
-2. Night mode
-3. Customizable tabs
-4. Tweet with photos and videos
+> 1. Customizable Material Design
+> 2. Night mode
+> 3. Customizable tabs
+> 4. Tweet with photos and videos
 
 ![](https://github.com/nekocode/Murmur/blob/master/art/screenshot1.png)
 
@@ -71,7 +71,6 @@
 [漂亮的顶部栏](https://github.com/Yalantis/JellyToolbar)
 
 <img src="https://github.com/Yalantis/JellyToolbar/blob/develop/gif.gif" width="300" height="200">
-
 
 [音乐播放器](https://github.com/antoniolg/Bandhook-Kotlin)
 > The purpose of the project is to show a complex (at least in architecture) project entirely written using Kotlin. This example also supports the articles written in antonioleiva.com related to Kotlin for Android:
