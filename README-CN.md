@@ -43,14 +43,12 @@
 [使用kotlin仿Twitter的客户端](https://github.com/TwidereProject/Twidere-Android)
 
 ![](https://github.com/nekocode/Murmur/blob/master/art/screenshot1.png)
-![](https://github.com/nekocode/Murmur/blob/master/art/screenshot2.png)
-![](https://github.com/nekocode/Murmur/blob/master/art/screenshot3.png)
 
 [用kotlin编写gradle脚本](https://github.com/gradle/gradle-script-kotlin)
 
 [一个用Kotlin写的简单漫画APP](https://github.com/wuapnjie/PoiShuhui-Kotlin)
 
-<img src="https://camo.githubusercontent.com/b61b119488c632328092f60ecb600ecf79643527/687474703a2f2f377872716d6a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5336303331302d3232323033372e6a70673f696d616765566965772f322f772f3330302f712f3930" width="200" height="400">
+<img src="https://camo.githubusercontent.com/b61b119488c632328092f60ecb600ecf79643527/687474703a2f2f377872716d6a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5336303331302d3232323033372e6a70673f696d616765566965772f322f772f3330302f712f3930" width="230" height="400">
 
 [Kotlin 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
 
