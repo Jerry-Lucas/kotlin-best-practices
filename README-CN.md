@@ -35,22 +35,38 @@
 ### 开源项目
 
 [kotlin 项目地址](https://github.com/JetBrains/kotlin)
+> Welcome to Kotlin! Some handy links:
+1. Kotlin Site
+2. Getting Started Guide
+3. Try Kotlin
+4. Kotlin Standard Library
+5. ...
 
 [kotlin 快速开发框架](https://github.com/Kotlin/anko)
+> Anko is a Kotlin library which makes Android application development faster and easier. It makes your code clean and easy to read, and lets you forget about rough edges of the Android SDK for Java.
 
 [RxJava bindings for Kotlin](https://github.com/ReactiveX/RxKotlin)
+> RxKotlin is a lightweight library that adds convenient extension functions to RxJava. You can use RxJava with Kotlin out-of-the-box, but Kotlin has language features (such as extension functions) that can streamline usage of RxJava even more. RxKotlin aims to conservatively collect these conveniences in one centralized library, and standardize conventions for using RxJava with Kotlin.
 
 [使用kotlin仿Twitter的客户端](https://github.com/TwidereProject/Twidere-Android)
+> Features
+1. Customizable Material Design
+2. Night mode
+3. Customizable tabs
+4. Tweet with photos and videos
 
 ![](https://github.com/nekocode/Murmur/blob/master/art/screenshot1.png)
 
 [用kotlin编写gradle脚本](https://github.com/gradle/gradle-script-kotlin)
+> Welcome! Gradle Script Kotlin provides support for writing Gradle build scripts using JetBrains' Kotlin language. It aims to provide Gradle users with a rich, flexible and statically-typed approach to developing build logic in conjunction with the best IDE and tooling experience possible.
 
 [一个用Kotlin写的简单漫画APP](https://github.com/wuapnjie/PoiShuhui-Kotlin)
+> 一个用Kotlin写的简单漫画APP
 
 <img src="https://camo.githubusercontent.com/b61b119488c632328092f60ecb600ecf79643527/687474703a2f2f377872716d6a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5336303331302d3232323033372e6a70673f696d616765566965772f322f772f3330302f712f3930" width="230" height="400">
 
 [Kotlin 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
+> 随着Kotlin越来越成熟稳定，我已经开始在生产环境中使用它。考虑到目前国内资料较少，我录制了一套视频教程，希望以此抛砖引玉，让 Kotlin 在国内火起来。
 
 [漂亮的顶部栏](https://github.com/Yalantis/JellyToolbar)
 
@@ -58,14 +74,15 @@
 
 
 [音乐播放器](https://github.com/antoniolg/Bandhook-Kotlin)
+> The purpose of the project is to show a complex (at least in architecture) project entirely written using Kotlin. This example also supports the articles written in antonioleiva.com related to Kotlin for Android:
 
 ![](https://github.com/antoniolg/Bandhook-Kotlin/blob/master/art/bandhook.gif)
 
 [kotlin 设计模式](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
-> 观察者
-> 策略
-> 命令
-> 单例
+> 1. 观察者
+> 2. 策略
+> 3. 命令
+> 4. 单例
 
 **持续更新中~**
 
